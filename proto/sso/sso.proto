@@ -31,3 +31,5 @@ message LoginRequest {
 message LoginResponse {
   string token = 1; 
 }
+
+// Oh, hello there!
